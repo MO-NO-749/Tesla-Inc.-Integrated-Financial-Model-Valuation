@@ -85,20 +85,20 @@ How the model flows from historical data through to valuation.
 
 ## 5. Screenshots
 
-Captured directly from the live workbook — available in [`Model_Screenshots/`](./Model_Screenshots/).
+Captured directly from the live workbook — available in [`Model_Screenshorts/`](./Model_Screenshorts/).
 
 <table>
 <tr>
 <td width="50%">
 
 **DCF Valuation**
-![DCF](./Model_Screenshots/DCF.png)
+![DCF](./Model_Screenshorts/DCF.png)
 
 </td>
 <td width="50%">
 
 **Cost of Capital (WACC)**
-![WACC](./Model_Screenshots/WACC.png)
+![WACC](./Model_Screenshorts/WACC.png)
 
 </td>
 </tr>
@@ -106,13 +106,13 @@ Captured directly from the live workbook — available in [`Model_Screenshots/`]
 <td width="50%">
 
 **Financial Statements (P&L)**
-![Financial Statements](./Model_Screenshots/Financial_Statements.png)
+![Financial Statements](./Model_Screenshorts/Financial_Statements.png)
 
 </td>
 <td width="50%">
 
 **Revenue Drivers (Scenario Toggle)**
-![Revenue Drivers](./Model_Screenshots/Revenue_Drivers.png)
+![Revenue Drivers](./Model_Screenshorts/Revenue_Drivers.png)
 
 </td>
 </tr>
@@ -120,20 +120,18 @@ Captured directly from the live workbook — available in [`Model_Screenshots/`]
 <td width="50%">
 
 **Balance Sheet Check Row**
-![Balance Sheet Check](./Model_Screenshots/Balance_Sheet_Check.png)
+![Balance Sheet Check](./Model_Screenshorts/Balance_Sheet_Check.png)
 
 </td>
 <td width="50%">
 
 **Sensitivity Table**
-![Sensitivity](./Model_Screenshots/Sensitivity.png)
+![Sensitivity](./Model_Screenshorts/Sensitivity.png)
 
 </td>
 </tr>
 </table>
 
-**Cover**
-![Cover](./Model_Screenshots/Cover.png)
 
 ## 6. Project Objectives
 
