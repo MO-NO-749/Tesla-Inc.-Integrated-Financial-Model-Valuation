@@ -57,7 +57,7 @@ Terminal value ($M) across a range of WACC and growth assumptions — base case 
 CAPM cost of equity and after-tax cost of debt, blended to WACC.
 
 </td>
-<td width="50%">
+<td width="20%">
 
 **Gross & EBIT Margin Trend**
 ![Margin Trend](./Charts/Margin_Trend.png)
