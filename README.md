@@ -60,7 +60,7 @@ CAPM cost of equity and after-tax cost of debt, blended to WACC.
 <td width="20%">
 
 **Gross & EBIT Margin Trend**
-![Margin Trend](/Charts/Margin_Trend.png)
+![Margin Trend](/Charts/Margin%20Trend.png)
 Margin compression as opex converges toward peer-benchmarked levels; min/max labeled.
 
 </td>
