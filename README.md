@@ -120,7 +120,7 @@ Captured directly from the live workbook — available in [`Model_Screenshorts/`
 <td width="20%">
 
 **Balance Sheet Check Row**
-![Balance Sheet Check]([%20
+![Balance Sheet Check](/Model_Screenshorts/Balance%20Sheet%20Check.png)
 
 
 </td>
