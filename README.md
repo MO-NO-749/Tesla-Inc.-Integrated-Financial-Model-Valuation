@@ -106,7 +106,7 @@ Captured directly from the live workbook — available in [`Model_Screenshorts/`
 <td width="50%">
 
 **Financial Statements (P&L)**
-![Financial Statements](./Model_Screenshorts/Financial_Statements.png)
+![Financial Statements](./Model_Screenshorts/Financial Statements.png)
 
 </td>
 <td width="50%">
