@@ -112,7 +112,7 @@ Captured directly from the live workbook — available in [`Model_Screenshorts/`
 <td width="50%">
 
 **Revenue Drivers (Scenario Toggle)**
-![Revenue Drivers](/Model_Screenshorts/Revenue Drivers.png)
+![Revenue Drivers](/Model_Screenshorts/Revenue%20Drivers.png)
 
 </td>
 </tr>
@@ -120,7 +120,7 @@ Captured directly from the live workbook — available in [`Model_Screenshorts/`
 <td width="20%">
 
 **Balance Sheet Check Row**
-![Balance Sheet Check](/Model_Screenshorts/Balance%\20Sheet%20Check.png)
+![Balance Sheet Check]([/Model_Screenshorts/Balance%20Sheet%20Check.png)
 
 
 </td>
