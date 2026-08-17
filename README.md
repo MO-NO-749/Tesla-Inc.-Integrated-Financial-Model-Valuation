@@ -112,7 +112,7 @@ Captured directly from the live workbook — available in [`Model_Screenshorts/`
 <td width="50%">
 
 **Revenue Drivers (Scenario Toggle)**
-![Revenue Drivers](./Model_Screenshorts/Revenue_Drivers.png)
+![Revenue Drivers](./Model_Screenshorts/Revenue Drivers.png)
 
 </td>
 </tr>
