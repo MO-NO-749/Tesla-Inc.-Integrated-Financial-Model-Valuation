@@ -1,6 +1,6 @@
 <div align="center">
 
-<div align="Center"> <img src="/Screenshorts/Cover.png"> </div> Tesla Inc. Integrated Financial Model & Valuation
+<div align="Center"> <img src="/Model_Screenshorts/Cover.png"> </div> Tesla Inc. Integrated Financial Model & Valuation
 
 An independent, bottom-up discounted cash flow (DCF) valuation of Tesla, Inc. (NASDAQ: TSLA), built on a fully integrated three-statement financial model with explicit operating drivers, a Damodaran-consistent cost of capital framework, and scenario analysis.
 
