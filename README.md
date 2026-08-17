@@ -106,7 +106,7 @@ Captured directly from the live workbook — available in [`Model_Screenshorts/`
 <td width="50%">
 
 **Financial Statements (P&L)**
-![Financial Statements](/Model_Screenshorts/Financial%50Statements.png)
+![Financial Statements](/Model_Screenshorts/Financial%20Statements.png)
 
 </td>
 <td width="50%">
@@ -120,7 +120,7 @@ Captured directly from the live workbook — available in [`Model_Screenshorts/`
 <td width="20%">
 
 **Balance Sheet Check Row**
-![Balance Sheet Check](/Model_Screenshorts/Balance%\50Sheet%20Check.png)
+![Balance Sheet Check](/Model_Screenshorts/Balance%\20Sheet%20Check.png)
 
 
 </td>
