@@ -117,7 +117,7 @@ Captured directly from the live workbook — available in [`Model_Screenshorts/`
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="20%">
 
 **Balance Sheet Check Row**
 ![Balance Sheet Check](./Model_Screenshorts/Balance_Sheet_Check.png)
