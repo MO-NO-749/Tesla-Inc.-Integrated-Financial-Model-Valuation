@@ -69,7 +69,7 @@ Margin compression as opex converges toward peer-benchmarked levels; min/max lab
 <td width="50%">
 
 **Revenue & Net Income Trend**
-![Revenue and Net Income](./Charts/Revenue_and_Net_Income.png)
+![Revenue and Net Income](/Charts/Revenue%20and%20Net%20Income.png)
 Historical actuals (FY2021–2025) vs. Base Case forecast (FY2026–2032); min/max labeled.
 
 </td>
