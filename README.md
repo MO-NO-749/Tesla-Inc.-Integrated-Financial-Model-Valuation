@@ -267,3 +267,11 @@ This project builds a fully integrated, auditable three-statement financial mode
 This project was built for educational and portfolio purposes only. All historical figures are drawn from Tesla, Inc.'s public SEC filings; forward-looking figures are model estimates. This is not investment advice, a research report from a registered investment adviser or broker-dealer, or a recommendation to buy, sell, or hold any security.
 
 ---
+## 🌟 About Me
+
+Hi there! I'm **Monojit Samanta**. I’m an B.com graduate with exposure in MIS & office Assistent want to excel in my professional life with data in front and finance as domain.
+
+Let's stay in touch! Feel free to connect with me on the following platforms:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monojit-samanta-720889383)
+
