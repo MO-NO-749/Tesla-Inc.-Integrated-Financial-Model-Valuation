@@ -7,7 +7,7 @@ An independent, bottom-up discounted cash flow (DCF) valuation of Tesla, Inc. (N
 **Prepared by:** Monojit Samanta · **Version:** 1.0 · **Date:** July 2026
 
 ## 1. Headline Output
-
+<div align="Center">
 | | |
 |---|---|
 | **DCF Intrinsic Value per Share (Base Case)** | $24.23 |
