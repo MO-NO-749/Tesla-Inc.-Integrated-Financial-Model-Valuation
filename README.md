@@ -1,4 +1,4 @@
-<div align="center">
+<div align="Left">
 
 <div align="Center"> <img src="/Model_Screenshorts/Cover.png"> </div> Tesla Inc. Integrated Financial Model & Valuation
 
